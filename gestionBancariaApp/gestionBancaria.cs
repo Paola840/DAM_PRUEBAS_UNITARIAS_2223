@@ -14,7 +14,7 @@ public class gestionBancaria
     public const int ERR_CANTIDAD_INDICADA_NEGATIVA = 1;
     public const int ERR_SALDO_INSUFICIENTE = 3;
 
-
+    //Constructor
     public gestionBancaria(double saldoInicial)
     {
         saldo = saldoInicial;
